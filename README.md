@@ -1,4 +1,4 @@
-# Rails Project Analysis
+# Rails project issues analysis
 
 ## Overview
 Explore insights from the Rails project issues. This repository contains code for issues management analysis, classification model fine-tuning, and evaluation.
